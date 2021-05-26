@@ -1,7 +1,7 @@
 # KECRS
 
 
-Towards **K**nowledge-**E**nriched **C**onversational **R**ecommendation  **S**ystem.<br>
+**K**nowledge-**E**nriched **C**onversational **R**ecommendation  **S**ystem.<br>
 
 ## Prerequisites
 - Python 3.6
